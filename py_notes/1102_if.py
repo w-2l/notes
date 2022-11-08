@@ -10,7 +10,7 @@ age=int(age) # input得到的数据类型均为char
 if age>17:
     print("为所欲为")
 else:
-    print("滚！！")
+    print("！！")
 print("end")
 
 
