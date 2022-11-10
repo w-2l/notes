@@ -3,4 +3,4 @@ project(cLion C)
 
 set(CMAKE_C_STANDARD 99)
 
-add_executable(cLion main.c fun.c fun.h)
+add_executable(cLion main.c test01.c)
