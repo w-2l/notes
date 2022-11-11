@@ -1,7 +1,6 @@
 //
 // Created by DELL on 2022/11/10.
 //
-//#include"test.h"
 //void test01()
 //{   //3.5 正确
 //    //一维数组翻车了，实现起来还有点麻烦

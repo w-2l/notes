@@ -61,6 +61,12 @@ build CMakeFiles/cLion.dir/test03.c.obj: C_COMPILER__cLion_Debug E$:/my_notes/c_
   OBJECT_DIR = CMakeFiles\cLion.dir
   OBJECT_FILE_DIR = CMakeFiles\cLion.dir
 
+build CMakeFiles/cLion.dir/test04.c.obj: C_COMPILER__cLion_Debug E$:/my_notes/c_notes/cLion/test04.c || cmake_object_order_depends_target_cLion
+  DEP_FILE = CMakeFiles\cLion.dir\test04.c.obj.d
+  FLAGS = -g -std=gnu99
+  OBJECT_DIR = CMakeFiles\cLion.dir
+  OBJECT_FILE_DIR = CMakeFiles\cLion.dir
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target cLion
@@ -69,7 +75,7 @@ build CMakeFiles/cLion.dir/test03.c.obj: C_COMPILER__cLion_Debug E$:/my_notes/c_
 #############################################
 # Link the executable cLion.exe
 
-build cLion.exe: C_EXECUTABLE_LINKER__cLion_Debug CMakeFiles/cLion.dir/main.c.obj CMakeFiles/cLion.dir/test03.c.obj
+build cLion.exe: C_EXECUTABLE_LINKER__cLion_Debug CMakeFiles/cLion.dir/main.c.obj CMakeFiles/cLion.dir/test03.c.obj CMakeFiles/cLion.dir/test04.c.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\cLion.dir
