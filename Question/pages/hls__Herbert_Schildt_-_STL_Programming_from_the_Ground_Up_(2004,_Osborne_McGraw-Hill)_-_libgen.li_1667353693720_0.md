@@ -1,0 +1,38 @@
+file:: [Herbert_Schildt_-_STL_Programming_from_the_Ground_Up_(2004,_Osborne_McGraw-Hill)_-_libgen.li_1667353693720_0.pdf](../assets/Herbert_Schildt_-_STL_Programming_from_the_Ground_Up_(2004,_Osborne_McGraw-Hill)_-_libgen.li_1667353693720_0.pdf)
+file-path:: ../assets/Herbert_Schildt_-_STL_Programming_from_the_Ground_Up_(2004,_Osborne_McGraw-Hill)_-_libgen.li_1667353693720_0.pdf
+
+- poetry.
+  ls-type:: annotation
+  hl-page:: 7
+  hl-color:: yellow
+  id:: 6361cdaa-4239-4919-a57b-7a7be5da46cd
+- conveys
+  ls-type:: annotation
+  hl-page:: 7
+  hl-color:: yellow
+  id:: 6361cdb4-6751-46a1-8bee-8b6e812c47d9
+- odify 
+  ls-type:: annotation
+  hl-page:: 7
+  hl-color:: yellow
+  id:: 6361cdbb-a060-4a49-9804-93a1734e8c4e
+- conception
+  ls-type:: annotation
+  hl-page:: 7
+  hl-color:: yellow
+  id:: 6361ce3c-970b-4219-8184-af5d643405dd
+- Masterful 
+  ls-type:: annotation
+  hl-page:: 7
+  hl-color:: yellow
+  id:: 6361ce64-4424-45af-b395-ea2785705467
+- succinct
+  ls-type:: annotation
+  hl-page:: 7
+  hl-color:: yellow
+  id:: 6361ce70-cb5a-49f0-bfbd-21bfc1c22c67
+- essay.
+  ls-type:: annotation
+  hl-page:: 7
+  hl-color:: yellow
+  id:: 6361ce7d-48c1-44d8-b3f6-bd490e28e9c4
