@@ -1,9 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="4a09e94b-6ee5-492c-b643-dbdd8f6690b1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../py_notes/pyCharm/test01/字典.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../py_notes/pyCharm/test01/字符串.py" beforeDir="false" afterPath="$PROJECT_DIR$/../py_notes/pyCharm/test01/字符串.py" afterDir="false" />
+    <list default="true" id="4a09e94b-6ee5-492c-b643-dbdd8f6690b1" name="Changes" comment="add &quot;py_notes &quot;">
+      <change afterPath="$PROJECT_DIR$/../c_notes/excise_c/test.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c_notes/excise_c/test.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01html/cropped-1920-1200-502378.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01html/媒体标签.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01html/标签、.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01html/链接标签.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02HTML/列表.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02HTML/有语义的标签.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02HTML/表单1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02HTML/表单2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02HTML/表格.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02HTML/表格属性.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day03CSS/字体.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c_notes/cLion/cmake-build-debug/.cmake/api/v1/reply/cache-v2-8aa8d65c5b4a59f4b66f.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c_notes/cLion/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-318075f6a267a9f71d42.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c_notes/cLion/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-fc3a18d82a489396a6c3.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c_notes/cLion/cmake-build-debug/.cmake/api/v1/reply/index-2022-11-11T06-59-36-0520.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c_notes/cLion/cmake-build-debug/.cmake/api/v1/reply/target-cLion-Debug-498fb29f831091f0d3d5.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c_notes/cLion/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-f8ccaa564ba84132da7a.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c_notes/cLion/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/../c_notes/cLion/cmake-build-debug/.ninja_deps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c_notes/cLion/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/../c_notes/cLion/cmake-build-debug/.ninja_log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c_notes/cLion/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../c_notes/cLion/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c_notes/cLion/cmake-build-debug/CMakeFiles/3.23.2/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c_notes/cLion/cmake-build-debug/CMakeFiles/3.23.2/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c_notes/cLion/cmake-build-debug/CMakeFiles/3.23.2/CMakeRCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c_notes/cLion/cmake-build-debug/CMakeFiles/3.23.2/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c_notes/cLion/cmake-build-debug/CMakeFiles/3.23.2/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c_notes/cLion/cmake-build-debug/CMakeFiles/3.23.2/CompilerIdC/a.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c_notes/cLion/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/../c_notes/cLion/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c_notes/cLion/cmake-build-debug/CMakeFiles/cLion.dir/fun.c.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c_notes/cLion/cmake-build-debug/CMakeFiles/cLion.dir/main.c.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../c_notes/cLion/cmake-build-debug/CMakeFiles/cLion.dir/main.c.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c_notes/cLion/cmake-build-debug/CMakeFiles/cLion.dir/test01.c.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c_notes/cLion/cmake-build-debug/CMakeFiles/cLion.dir/test03.c.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../c_notes/cLion/cmake-build-debug/CMakeFiles/cLion.dir/test03.c.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c_notes/cLion/cmake-build-debug/CMakeFiles/cLion.dir/test04.c.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../c_notes/cLion/cmake-build-debug/CMakeFiles/cLion.dir/test04.c.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c_notes/cLion/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../c_notes/cLion/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c_notes/cLion/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c_notes/cLion/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/../c_notes/cLion/cmake-build-debug/CMakeFiles/rules.ninja" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c_notes/cLion/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../c_notes/cLion/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c_notes/cLion/cmake-build-debug/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/../c_notes/cLion/cmake-build-debug/build.ninja" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c_notes/cLion/cmake-build-debug/cLion.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../c_notes/cLion/cmake-build-debug/cLion.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c_notes/cLion/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../c_notes/cLion/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c_notes/cLion/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/../c_notes/cLion/main.c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -11,25 +54,49 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2HKhAauamgJ8QTmHUpkFwml8Tpw" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "E:/my_notes/web_notes",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/my_notes/web_notes/day01&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\my_notes\web_notes\day01" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -44,10 +111,31 @@
       <workItem from="1668404580573" duration="36000" />
       <workItem from="1669901036558" duration="66000" />
       <workItem from="1669901366528" duration="26000" />
+      <workItem from="1669901399762" duration="1152000" />
+      <workItem from="1669902575282" duration="63000" />
+      <workItem from="1669902649722" duration="4090000" />
+      <workItem from="1669935316189" duration="6395000" />
+      <workItem from="1669962941123" duration="5043000" />
+      <workItem from="1670054129712" duration="109000" />
+      <workItem from="1670054250403" duration="2000" />
+      <workItem from="1670059862650" duration="6000" />
+      <workItem from="1670061124468" duration="11000" />
     </task>
+    <task id="LOCAL-00001" summary="add &quot;py_notes &quot;">
+      <created>1669901436549</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1669901436549</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add &quot;py_notes &quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="add &quot;py_notes &quot;" />
   </component>
 </project>
