@@ -1,6 +1,7 @@
 #include "test.h"
 
-int main() {
-    WhatDay();
+int main()
+{
+
     return 0;
 }

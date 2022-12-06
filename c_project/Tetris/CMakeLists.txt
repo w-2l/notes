@@ -9,4 +9,4 @@ add_executable(c_project
         .idea/modules.xml
         .idea/vcs.xml
         .idea/workspace.xml
-        main.c)
+        main.c struc.c struc.h)

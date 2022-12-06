@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakePresetLoader">{
+  &quot;useNewFormat&quot;: true
+}</component>
+  <component name="CMakeReloadState">
+    <option name="reloaded" value="true" />
+  </component>
+  <component name="CMakeRunConfigurationManager">
+    <generated>
+      <config projectName="c_project" targetName="c_project" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="149167e6-e69a-47f8-9710-6d92c96b344b" name="变更" comment="">
+      <change afterPath="$PROJECT_DIR$/../c_notes/c++/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c_notes/c++/.idea/c++.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c_notes/c++/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c_notes/c++/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c_notes/c++/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c_notes/c++/day01/test.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c_notes/c++/day02/02.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c_notes/c++/day02/02.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tetris/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tetris/.idea/c_project.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tetris/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tetris/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tetris/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tetris/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tetris/cmake-build-debug/.cmake/api/v1/query/cache-v2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tetris/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tetris/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tetris/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tetris/cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-d0094a50bb2071803777.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tetris/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-be699c0c7260a8437256.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tetris/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tetris/cmake-build-debug/CMakeFiles/3.24.2/CMakeCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tetris/cmake-build-debug/CMakeFiles/3.24.2/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tetris/cmake-build-debug/CMakeFiles/3.24.2/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tetris/cmake-build-debug/CMakeFiles/3.24.2/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tetris/cmake-build-debug/CMakeFiles/3.24.2/CMakeRCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tetris/cmake-build-debug/CMakeFiles/3.24.2/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tetris/cmake-build-debug/CMakeFiles/3.24.2/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tetris/cmake-build-debug/CMakeFiles/3.24.2/CompilerIdC/a.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tetris/cmake-build-debug/CMakeFiles/3.24.2/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tetris/cmake-build-debug/CMakeFiles/3.24.2/CompilerIdCXX/a.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tetris/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tetris/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tetris/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tetris/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tetris/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tetris/cmake-build-debug/CMakeFiles/rules.ninja" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tetris/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tetris/cmake-build-debug/build.ninja" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tetris/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tetris/main.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tetris/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tetris/struc.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tetris/struc.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c_notes/excise_c/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../c_notes/excise_c/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c_notes/excise_c/cmake-build-debug/.cmake/api/v1/reply/index-2022-12-03T08-26-12-0015.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c_notes/excise_c/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/../c_notes/excise_c/cmake-build-debug/.ninja_deps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c_notes/excise_c/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/../c_notes/excise_c/cmake-build-debug/.ninja_log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c_notes/excise_c/cmake-build-debug/CMakeFiles/excise_c.dir/main.c.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../c_notes/excise_c/cmake-build-debug/CMakeFiles/excise_c.dir/main.c.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c_notes/excise_c/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../c_notes/excise_c/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c_notes/excise_c/cmake-build-debug/excise_c.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../c_notes/excise_c/cmake-build-debug/excise_c.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c_notes/excise_c/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/../c_notes/excise_c/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c_notes/vscode/.vscode/c_cpp_properties.json" beforeDir="false" afterPath="$PROJECT_DIR$/../c_notes/vscode/.vscode/c_cpp_properties.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c_notes/vscode/.vscode/launch.json" beforeDir="false" afterPath="$PROJECT_DIR$/../c_notes/vscode/.vscode/launch.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c_notes/vscode/.vscode/tasks.json" beforeDir="false" afterPath="$PROJECT_DIR$/../c_notes/vscode/.vscode/tasks.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c_notes/vscode/百钱百鸡问题.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c_notes/vscode/百钱百鸡问题.exe" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2022" />
+    <option name="minorVersion" value="3" />
+  </component>
+  <component name="ProjectId" id="2IXTOoIPlSf7lzLAQDxZ6K1fb9R" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "last_opened_file_path": "E:/my_notes/c_project/Tetris",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="c_project" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="c_project" TARGET_NAME="c_project" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="c_project" RUN_TARGET_NAME="c_project">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="149167e6-e69a-47f8-9710-6d92c96b344b" name="变更" comment="" />
+      <created>1670326900469</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1670326900469</updated>
+      <workItem from="1670326901708" duration="53000" />
+      <workItem from="1670326980227" duration="121000" />
+      <workItem from="1670327165548" duration="827000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>

@@ -1,17 +1,4 @@
 # ninja log v5
-0	118	6917572040126006	CMakeFiles/excise_c.dir/main.c.obj	fd71a6fb85b8c31a
-119	269	6917572041601743	excise_c.exe	205b13dd57045d12
-3	737	6917695524272030	CMakeFiles/excise_c.dir/test.c.obj	9a8ad6448a1842a6
-31	739	6917695524287150	CMakeFiles/excise_c.dir/main.c.obj	fd71a6fb85b8c31a
-739	1154	6917695528334275	excise_c.exe	a9c5a513e17f96db
-21	143	6917709358729306	CMakeFiles/excise_c.dir/main.c.obj	fd71a6fb85b8c31a
-2	134	6917710013182789	CMakeFiles/excise_c.dir/test.c.obj	9a8ad6448a1842a6
-135	314	6917710014841247	excise_c.exe	a9c5a513e17f96db
-1	124	6917710392742274	CMakeFiles/excise_c.dir/test.c.obj	9a8ad6448a1842a6
-124	277	6917710394199295	excise_c.exe	a9c5a513e17f96db
-2	166	6917715125541742	CMakeFiles/excise_c.dir/test.c.obj	9a8ad6448a1842a6
-169	367	6917715127446447	excise_c.exe	a9c5a513e17f96db
-2	144	6917715848083055	CMakeFiles/excise_c.dir/test.c.obj	9a8ad6448a1842a6
-145	328	6917715849790722	excise_c.exe	a9c5a513e17f96db
+1	573	6919355892593434	CMakeFiles/excise_c.dir/main.c.obj	fd71a6fb85b8c31a
+574	666	6919355893488059	excise_c.exe	a9c5a513e17f96db
 2	171	6917719322537246	CMakeFiles/excise_c.dir/test.c.obj	9a8ad6448a1842a6
-172	384	6917719324520811	excise_c.exe	a9c5a513e17f96db
